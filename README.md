@@ -1,5 +1,5 @@
 # ReadMeGen
-  ##Table of Contents
+  ## Table of Contents
   -[Description](#Description)
   -[Installation](#Installation)
   -[Usage](#Usage)
@@ -7,18 +7,18 @@
   -[Contribution](#Contribution)
   -[Tests](#Tests)
   -[Questions](#Questions)
-  ##Description
+  ## Description
   $(data.description)
-  ##Installation
+  ## Installation
   $(data.installation)
-  ##Usage
+  ## Usage
   $(data.usage)
-  ##License
+  ## License
   $(license)(#license)
-  ##Contribution
+  ## Contribution
   $(data.contribution)
-  ##Tests
+  ## Tests
   $(data.tests)
-  ##Questions
+  ## Questions
   $(data.questions)
 
