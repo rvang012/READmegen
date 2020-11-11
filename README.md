@@ -8,17 +8,13 @@
   -[Tests](#Tests)
   -[Questions](#Questions)
   ## Description
-  $(data.description)
-  ## Installation
-  $(data.installation)
+  This app is to generate a read me markdown file.
+  Here is the demo.
+  https://drive.google.com/file/d/19_d5Y1gz6fjUXX5p7XWp-9oh4Vgw_JVO/view
   ## Usage
-  $(data.usage)
-  ## License
-  $(data.license)
+  When opening this in your terminal, input your answers and it should create a README file. 
   ## Contribution
-  $(data.contribution)
-  ## Tests
-  $(data.tests)
+  Myself and classmates in the bootcamp.
   ## Questions
-  $(data.questions)
+  Any questions, please email or message me. 
 
