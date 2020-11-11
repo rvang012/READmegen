@@ -1,12 +1,12 @@
 # ReadMeGen
   ## Table of Contents
-  -[Description](#Description)
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contribution](#Contribution)
-  -[Tests](#Tests)
-  -[Questions](#Questions)
+  -#### [Description](#Description)
+  -#### [Installation](#Installation)
+  -#### [Usage](#Usage)
+  -#### [Liscense](#Liscense)
+  -#### [Contribution](#Contribution)
+  -#### [Tests](#Tests)
+  -#### [Questions](#Questions)
   ## Description
   $(data.description)
   ## Installation
@@ -14,7 +14,7 @@
   ## Usage
   $(data.usage)
   ## License
-  $(license)(#license)
+  $(data.license)
   ## Contribution
   $(data.contribution)
   ## Tests
