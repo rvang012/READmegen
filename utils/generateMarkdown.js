@@ -1,4 +1,6 @@
-# ReadMeGen
+// function to generate markdown for README
+function generateMarkdown(data) {
+  return `# ${data.title}
   ##Title
   ##Table of Contents
   -[Description](#Description)
@@ -23,3 +25,7 @@
   ##Questions
   $(data.questions)
 
+`;
+}
+
+module.exports = generateMarkdown;
