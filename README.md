@@ -1,10 +1,9 @@
 # ReadMeGen
-  ##Title
   ##Table of Contents
   -[Description](#Description)
   -[Installation](#Installation)
   -[Usage](#Usage)
-  -[Liscense](#Liscense)
+  -[License](#License)
   -[Contribution](#Contribution)
   -[Tests](#Tests)
   -[Questions](#Questions)
@@ -15,7 +14,7 @@
   ##Usage
   $(data.usage)
   ##License
-  ![License](#license)
+  $(license)(#license)
   ##Contribution
   $(data.contribution)
   ##Tests
